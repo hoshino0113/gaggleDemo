@@ -12,9 +12,9 @@ Waterloo can be a lonely place. With assignments, projects, job-searching, many 
 
 # **Team Members:**
 
-Alan Zhong
-Josh Chen
-Joshua Kim
+Alan Zhong\
+Josh Chen\
+Joshua Kim\
 Michael He
 
 # **Release Notes:**

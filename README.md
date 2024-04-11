@@ -1,5 +1,7 @@
 **UWGaggle**
 
+# **Please email me for the source code**
+
 # **Project Description:**
 
 Waterloo can be a lonely place. With assignments, projects, job-searching, many students find it challenging to meet new people who share similar interests. For many students, an unfortunately large portion of their social interaction is with old friends they can't see anymore on a group chat. Introducing UWGaggle: an anonymous messaging app where students are matched with a new group chat based on their interests every week! UWGaggle allows users to get to know those in their groups, and to easily share their contact information with those that they enjoy talking to.
